@@ -67,8 +67,10 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        The purpose making Websites is can provide educational resources, news
-        updates, and other valuable information to visitors.
+        My name is Cok de, I am 18 years old, Indonesian living in
+        Denpasar,Bali. My education background is on IT programming especially
+        coding. During my 3 years study I also have done my intershiip at Iambe
+        hokky which focusing the front end of programming. I enjoy what I do.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

@@ -19,7 +19,11 @@ const Hero = (props) => (
         JavaScript is a programming language that is primarily used for creating
         interactive web pages and web applications.
       </SectionText>
-      <Button onClick={() => (window.location = "#")}>Learn More</Button>
+      <Button onClick={() => (window.location = "#")}>
+        <a download="/images/CV.pdf" href="#">
+          Download CV
+        </a>
+      </Button>
     </LeftSection>
   </Section>
 );

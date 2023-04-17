@@ -50,7 +50,13 @@ export const TimeLineData = [
     year: 2020,
     text: "Attending seminars with the context of being a front-end and back-end developer",
   },
-  { year: 2021, text: "Intership as a Front-end developer at Iambehokky" },
-  { year: 2022, text: "Participate in skills assessment and gain Competence" },
+  {
+    year: 2021,
+    text: "Intership as a Front-end developer from 1st Jan'23 - 30th June'23 at Iambehokky",
+  },
+  {
+    year: 2022,
+    text: "Participate in national skills assessment on April 10th 2023 and gain Competence as one of the best students",
+  },
   // { year: 2021, text: "Started my own platform" },
 ];
