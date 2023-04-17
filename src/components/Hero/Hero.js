@@ -13,7 +13,7 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Welcome To <br />
-        Cokde Putra Portfolio
+        Cokde Putra Profile
       </SectionTitle>
       <SectionText>
         JavaScript is a programming language that is primarily used for creating
