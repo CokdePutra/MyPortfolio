@@ -20,13 +20,13 @@ export const projects = [
     id: 1,
   },
   {
-    title: "WebRTC App",
+    title: "Kini-Chan Sushi",
     description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-    image: "/images/3.jpg",
-    tags: ["React", "WebRTC"],
-    source: "https://google.com",
-    visit: "https://google.com",
+      "Kini-Chan Sushi is a website to display products from Kini-Chan Sushi which can be accessed anytime anywhere and on every device, because the Kini-Chan Sushi website is responsive. ",
+    image: "/images/responsive-sushi-web.png",
+    tags: ["HTML", "CSS", "JavaScript"],
+    source: "https://github.com/CokdePutra/Kini-Chan-Sushi",
+    visit: "https://kini-chan-sushi.netlify.app/",
     id: 2,
   },
   {
