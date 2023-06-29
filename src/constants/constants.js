@@ -60,7 +60,7 @@ export const TimeLineData = [
   },
   {
     year: 2023,
-    text: "Started working at BlackSand Villas as IT for villa management",
+    text: "Started working at BlackSand Villas as IT for Database Management",
   },
   // { year: 2021, text: "Started my own platform" },
 ];
