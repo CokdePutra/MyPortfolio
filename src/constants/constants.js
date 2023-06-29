@@ -58,5 +58,9 @@ export const TimeLineData = [
     year: 2022,
     text: "Participate in national skills assessment on April 10th 2023 and gain Competence as one of the best students",
   },
+  {
+    year: 2023,
+    text: "Started working at BlackSand Villas as IT for villa management",
+  },
   // { year: 2021, text: "Started my own platform" },
 ];
