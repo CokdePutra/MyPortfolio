@@ -22,7 +22,7 @@ const Hero = (props) => (
       <Button
         onClick={() =>
           (window.location =
-            "https://drive.google.com/u/0/uc?id=17Ju8HYdrAC4XRLl8_aAVLSi206FeWtMt&export=download")
+            "https://drive.google.com/u/0/uc?id=1wODyTjKQ6h3gxafzJxjYGJ4VIwjZul-G&export=download")
         }
       >
         Download CV
