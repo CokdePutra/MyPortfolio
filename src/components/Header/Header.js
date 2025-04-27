@@ -23,8 +23,7 @@ const Header = () => (
             alignItems: "center",
             color: "White",
             marginBottom: "20px;",
-          }}
-        >
+          }}>
           <DiCssdeck size="3rem" />
           <Span>Portfolio</Span>
         </a>
@@ -56,8 +55,7 @@ const Header = () => (
       </SocialIcons>
       <SocialIcons
         href="https://www.instagram.com/cokde_putraws"
-        target="_blank"
-      >
+        target="_blank">
         <AiFillInstagram size="3rem" />
       </SocialIcons>
     </Div3>
